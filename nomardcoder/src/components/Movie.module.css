@@ -1,0 +1,27 @@
+.box {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 1vw;
+  margin: 1vw;
+  width: 40%;
+  text-align: center;
+}
+.img {
+  position: relative;
+  top: -50px;
+  left: -250px;
+}
+.title {
+  height: 70px;
+}
+.summary {
+  height: 100px;
+}
+.category {
+  padding: 0;
+}
+.genre {
+  display: inline;
+  margin: 1vw;
+  text-align: center;
+}

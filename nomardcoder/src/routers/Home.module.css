@@ -1,0 +1,10 @@
+.MainBox {
+  text-align: center;
+}
+
+.HomeBox {
+  display: block;
+  border: 1px solid black;
+  padding: auto;
+  margin: auto;
+}

@@ -1,0 +1,33 @@
+.loading {
+  text-align: center;
+}
+
+/* 박스 */
+.box {
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 2vw;
+  display: block;
+  padding: 1vw;
+  margin: 9vw auto;
+  width: 30%;
+  height: 480px;
+}
+
+.img {
+  display: block;
+  margin: auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.summary {
+  text-align: center;
+}
+
+.genre {
+  text-align: center;
+  list-style: none;
+}
